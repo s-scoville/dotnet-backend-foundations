@@ -4,8 +4,8 @@ using System.Text;
 
 namespace InheritanceBasics.Animals
 {
-    internal class Animal
+    public class Animal
     {
-
+        
     }
 }

@@ -4,8 +4,11 @@ using System.Text;
 
 namespace InheritanceBasics.Animals
 {
-    public class Cat
+    public class Cat : Animal
     {
-
+        public Cat (string name, int age, double weight, string breed): base (name, age, weight, breed)
+        {
+            
+        }
     }
 }

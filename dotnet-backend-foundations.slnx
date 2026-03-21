@@ -2,5 +2,6 @@
   <Folder Name="/aspnet/" />
   <Folder Name="/csharp/">
     <Project Path="csharp/InheritanceBasics/InheritanceBasics.csproj" Id="3710d3b1-f858-4380-b129-bd1752ada824" />
+    <Project Path="csharp/PolymorphismBasics/PolymorphismBasics.csproj" Id="5a5790f0-edc4-424f-8e08-93e6b8fb44b3" />
   </Folder>
 </Solution>

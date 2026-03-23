@@ -2,9 +2,10 @@
 {
     public class Sword : Weapon
     {
-        public Sword(string name, double weight, string material, int baseDamage) : base(name, weight, material, baseDamage)
+        public int SlashDamage { get; }
+        public Sword(string name, double weight, string material, int baseDamage, int slashDamage) : base(name, weight, material, baseDamage)
         {
-
+            SlashDamage = slashDamage;
         }
     }
 }

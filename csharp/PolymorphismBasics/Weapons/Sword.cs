@@ -7,5 +7,10 @@
         {
             SlashDamage = slashDamage;
         }
+
+        public override void Attack()
+        {
+            Console.WriteLine($"You slash the enemy for {BaseDamage + SlashDamage} damage.");
+        }
     }
 }

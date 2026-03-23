@@ -14,5 +14,8 @@
             Material = material;
             BaseDamage = baseDamage;
         }
+
+        public abstract void Attack();
+
     }
 }

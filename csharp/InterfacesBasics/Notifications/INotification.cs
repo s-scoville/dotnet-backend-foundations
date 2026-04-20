@@ -1,6 +1,7 @@
 ﻿namespace InterfacesBasics.Notifications
 {
-    internal interface INotification
+    public interface INotification
     {
+        void Send();
     }
 }

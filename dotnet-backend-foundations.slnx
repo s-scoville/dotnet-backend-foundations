@@ -4,5 +4,6 @@
     <Project Path="csharp/InheritanceBasics/InheritanceBasics.csproj" Id="3710d3b1-f858-4380-b129-bd1752ada824" />
     <Project Path="csharp/InterfacesBasics/InterfacesBasics.csproj" Id="9e0d1127-72f1-487e-835d-7f52fa596800" />
     <Project Path="csharp/PolymorphismBasics/PolymorphismBasics.csproj" Id="5a5790f0-edc4-424f-8e08-93e6b8fb44b3" />
+    <Project Path="csharp/ReferencesBasics/ReferencesBasics.csproj" Id="30e87d59-7168-4cd1-8c98-4f7b484f1f9b" />
   </Folder>
 </Solution>
